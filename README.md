@@ -78,4 +78,4 @@ The program first displays the title, an empty grid and an informational menu. I
 
 ## License
 
-No license file or explicit license declaration is included in the repository. Licensing therefore requires human review.
+This project is shared for educational and portfolio purposes. All rights reserved unless otherwise stated.
